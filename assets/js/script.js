@@ -240,3 +240,5 @@ pageContentEl.addEventListener("click", taskButtonHandler);
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
 
 loadTasks();
+
+//happy coding
